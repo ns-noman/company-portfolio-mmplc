@@ -1,4 +1,4 @@
-<footer class="bg-dark text-white py-5">
+<footer class="footer py-5">
   <div class="container">
     <h4 class="text-center mb-4">Useful Links</h4>
     <div class="row justify-content-center text-center g-4">
@@ -29,8 +29,8 @@
     <hr class="border-light my-4">
 
     <div class="text-center small">
-      &copy; 2020-2025 Magura Multiplex PLC (MMPLC). All Rights Reserved.<br>
-      Email: <a href="mailto:info@mmplc.com" class="text-white text-decoration-underline">info@mmplc.com</a> | 
+      &copy; 2020–<span id="footer-year">2025</span> Magura Multiplex PLC All Rights Reserved.<br>
+      Email: <a href="mailto:info@maguramultiplex.com.bd" class="text-white text-decoration-underline">info@maguramultiplex.com.bd</a> | 
       Phone: <a href="tel:+8801234567890" class="text-white text-decoration-underline">+88 01847 091040</a><br>
       <a href="javascript:void(0)" class="text-white text-decoration-underline">Privacy Policy</a> |
       <a href="javascript:void(0)" class="text-white text-decoration-underline">Terms of Use</a><br>
@@ -39,3 +39,13 @@
 
   </div>
 </footer>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const yearSpan = document.getElementById("footer-year");
+    if (yearSpan) {
+      yearSpan.textContent = new Date().getFullYear();
+    }
+  });
+</script>
+
+

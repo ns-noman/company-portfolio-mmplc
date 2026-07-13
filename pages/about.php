@@ -1,6 +1,5 @@
-<div class="bg-white rounded shadow p-4" style="margin:auto;">
-  <h2 class="mb-4 fw-bold text-primary text-center" data-aos="fade-up" data-aos-delay="100">About Us</h2>
 
+<div class="bg-white rounded p-4" style="margin:auto;">
   <p class="fs-5" data-aos="fade-up" data-aos-delay="100">
     Magura Multiplex PLC (MMPLC), situated in Siddhirgonj, Narayanganj, is a pioneering printing and publication company in Bangladesh. 
     Since commencing its operations in January 1987, following the successful completion of its 2nd Balancing, Modernization, Rehabilitation, and Expansion (BMRE) program, 
@@ -30,22 +29,25 @@
   </p>
 
   <!-- Example Stats (you can customize these numbers) -->
-  <div class="row text-center my-5" data-aos="fade-up" data-aos-delay="600">
-    <div class="col-md-4">
-      <h4 class="text-primary fw-bold">1987</h4>
-      <p>Year of Establishment</p>
-    </div>
-    <div class="col-md-4">
-      <h4 class="text-primary fw-bold">30+</h4>
-      <p>Product Types</p>
-    </div>
-    <div class="col-md-4">
-      <h4 class="text-primary fw-bold">1000+</h4>
-      <p>Happy Clients</p>
-    </div>
-  </div>
+ 
 
-  <div class="text-center" data-aos="zoom-in" data-aos-delay="700">
-    <a href="index.php?page=contact" class="btn btn-primary btn-lg px-5">Contact Us</a>
-  </div>
+  <!--<div class="text-center" data-aos="zoom-in" data-aos-delay="700">-->
+  <!--  <a href="index.php?page=contact" class="btn btn-primary btn-lg px-5">Contact Us</a>-->
+  <!--</div>-->
+</div>
+<div class="rounded" style="margin:auto;background-color: #f4f4f4; padding: 10px;">
+    <div class="row text-center my-5 mx-0">
+        <div class="col-sm-4 col-md-4 col-lg-4">
+          <h4 class="text-primary fw-bold">1987</h4>
+          <p>Year of Establishment</p>
+        </div>
+        <div class="col-sm-4 col-md-4 col-lg-4">
+          <h4 class="text-primary fw-bold">30+</h4>
+          <p>Product Types</p>
+        </div>
+        <div class="col-sm-4 col-md-4 col-lg-4">
+          <h4 class="text-primary fw-bold">1000+</h4>
+          <p>Happy Clients</p>
+        </div>
+    </div>
 </div>

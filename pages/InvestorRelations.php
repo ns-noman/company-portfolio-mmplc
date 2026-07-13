@@ -1,5 +1,4 @@
 <div class="bg-white rounded shadow p-4" style="margin:auto;">
-  <h3 class="fw-bold mb-4 display-6 text-center text-primary" data-aos="fade-up">Investor Relations</h3>
   <div class="table-responsive">
     <table class="table table-bordered table-hover align-middle">
       <caption class="text-center fw-bold">MMPLC Financial Reports and Documents</caption>
@@ -12,7 +11,20 @@
       <tbody>
         <?php
         $data = [
+          "Financial Year 2025-26" => [
+            ["3rd Quarter Accounts (31-03-2026) of Magura Multiplex PlC", "3rd Quarter Accounts (31-03-2026) of Magura Multiplex PlC.pdf"],
+            ["2nd Quarter Accounts (31-12-2025) of Magura Multiplex PLC", "2nd Quarter Accounts (31-12-2025) of Magura Multiplex PLC.pdf"],
+          ],
           "Financial Year 2024-25" => [
+            ["Corrigendum of 36 Notice of Maguraplex", "Corrigendum of 36 Notice of Maguraplex.pdf"],
+            ["36th Annual Report 2025 of Magura Multiplex PLC", "36th Annual Report 2025 of Magura Multiplex PLC.pdf"],
+            ["36 AGM Notice of Maguraplex", "36 AGM Notice of Maguraplex.pdf"],
+            ["1st Quarter 2025 of Magura Multiplex PLC", "1st Quarter 2025 of Magura Multiplex PLC.pdf"],
+            ["PSI 1Q of Maguraplex", "PSI 1Q of Maguraplex.pdf"],
+            ["Annual Accounts 2025 Magura", "Annual Accounts 2025 Magura.pdf"],
+            ["PSI Annual Accounts of Maguraplex", "PSI Annual Accounts of Maguraplex.pdf"],
+            
+            ["Unclaimed Dividend of Magura Multiplex PLC", "Unclaimed Dividend of Magura Multiplex PLC.pdf"],
             ["Price Sensitive Information 3rd Quarter", "3rd Quarter PSI of MMPLC.pdf"],
             ["3rd Quarterly Financial Statements FY 2024-25", "3rd Quarter 2025 of Magura Multiplex with sign.pdf"],
             ["2nd Quarterly Financial Statements FY 2024-25", "2nd Quarterly Financial Statements FY 2024-25 of PPP.pdf"],

@@ -10,19 +10,18 @@
     transform: translateY(-8px) scale(1.03);
     box-shadow: 0 12px 30px rgb(0 0 0 / 0.15);
   }
+  
+p.fs-5{
+    text-align: center;
+}
 </style>
 
 <div class="rounded shadow p-4" style="margin:auto;">
-  <!-- Section heading -->
-  <div class="text-center mb-5">
-    <h3 class="fw-bold mb-4 display-6 text-center text-primary" data-aos="fade-up">Board of Directors</h3>
-  </div>
-
   <div class="row g-4">
     <!-- Chairman -->
     <div class="col-lg-12 col-md-12 col-sm-12">
       <div class="row d-flex justify-content-center">
-        <div class="col-4">
+        <div class="col-sm-12 col-md-4 col-lg-4">
           <div class="animation-box" data-aos="fade-up" data-aos-delay="200">
             <div class="card border-0 shadow-sm h-100 text-center">
               <img
@@ -41,7 +40,7 @@
     <!-- Managing Director -->
     <div class="col-lg-12 col-md-12 col-sm-12">
       <div class="row d-flex justify-content-center">
-        <div class="col-4">
+        <div class="col-sm-12 col-md-4 col-lg-4">
           <div class="animation-box" data-aos="fade-up" data-aos-delay="300">
             <div class="card border-0 shadow-sm h-100 text-center">
               <img src="./images/directors/mobarakhossain.png"

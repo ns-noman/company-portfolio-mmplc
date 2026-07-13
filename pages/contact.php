@@ -8,8 +8,6 @@
 ?>
 
 <div class="bg-white rounded shadow p-4" style="margin:auto;">
-  <h2 class="mb-4 fw-bold text-primary text-center" data-aos="fade-down" data-aos-delay="100">Contact Us</h2>
-
   <div class="row gy-5">
     <!-- Contact Info -->
     <div class="col-lg-5" data-aos="fade-right" data-aos-delay="200">
@@ -37,8 +35,8 @@
         <p class="mb-3"><strong>Fax:</strong> +880-2-9564192</p>
 
         <p>
-          <strong>Email:</strong> <a href="mailto:info@pppl.com.bd" class="text-decoration-none">info@pppl.com.bd</a><br>
-          <strong>Website:</strong> <a href="http://www.pppl.com.bd" target="_blank" class="text-decoration-none">www.pppl.com.bd</a>
+          <strong>Email:</strong> <a href="mailto:info@maguramultiplex.com.bd" class="text-decoration-none">info@maguramultiplex.com.bd</a><br>
+          <strong>Website:</strong> <a href="https://maguramultiplex.com.bd/" target="_blank" class="text-decoration-none">maguramultiplex.com.bd</a>
         </p>
       </div>
     </div>
@@ -88,6 +86,31 @@
     </div>
   </div>
 </div>
+<section class="map-section bg-light py-5">
+  <div class="container">
+    <div class="row justify-content-center text-center mb-4">
+      <div class="col-lg-8">
+        <h2 class="text-dark fw-bold mb-3">Find Us on Google Maps</h2>
+        <p class="text-muted">We are located in the heart of Dhaka. You can reach us easily using the map below.</p>
+      </div>
+    </div>
+    
+    <!--<iframe src="" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>-->
+
+    <div class="row">
+      <div class="col-12">
+        <div class="map-responsive shadow rounded-3 overflow-hidden">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2846.920746007351!2d90.4348843!3d23.8135408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c65555555555%3A0x23c2934f4c81fc4!2sMagura%20Group!5e1!3m2!1sen!2sbd!4v1753357104443!5m2!1sen!2sbd"
+            width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade">
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
 <!-- AOS CSS & JS -->
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />

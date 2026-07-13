@@ -1,6 +1,4 @@
 <div class="bg-white rounded shadow p-4" style="margin:auto;">
-  <h3 class="fw-bold mb-4 display-6 text-center text-primary" data-aos="fade-up">Our Services</h3>
-
   <p class="fs-5" data-aos="fade-up" data-aos-delay="100">
     Magura Multiplex PLC (MMPLC) has always believed in the philosophy of conducting business not merely for profit, but for the greater well-being of the people.
     Guided by this vision, MMPLC has evolved through years of dedication, integrity, and hard work into a multidimensional enterprise.
