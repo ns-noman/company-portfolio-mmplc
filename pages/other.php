@@ -1,0 +1,24 @@
+				<div class="content-text">
+                	<h3>Other</h3><br>
+                    <p>In a city with limited entertainment options  shopping becomes a major recreational activities for the city dwellers. In this respect, Departmental stores in particular, where one can get a large variety of items under a single roof, has become a popular choice for the busy city dwellers harassed by time constraints.</p>
+                    <br />
+                    <p>One of BDC's latest Commercial Complex is a six-storied shopping mall at 'New Town'. Located beside Meghna bridge, the shopping complex is providing the consumers with a wide variety of goods and services.</p>
+                    <br />
+                    <p>Total area of land in Bangladesh is 57126 sq. miles. Administratively it has been divided into six Divisions,  which are subdivided in total 64 Zillas. All these Zillas are interconnected through well-designed metal road networks known as : "National Highway". One interesting feature of these Zillas is that the main town or business activities have been developed around these National Highways. Keeping this view in consideration BANGLADESH DEVELOPMENT COMPANY LTD. (BDC) has come up with a unique proposal of developing Mini township beside these National Highway as well as at the entrance of each Zilla town. The size of each of these Township will be initially of 15-20 acres, of which 12 to 18 acres will be earmarked for residential use and the rest 2-3 acres will be developed for commercial use. In these commercial plots, BDC likes to provide a petrol pump with provisions for car servicing and emergency repair, fast food restaurant, rest house, public toilet facilities, pharmacy & clinic, departmental stores, generator house and mosque. The residential area will be targeted for middle class people. All civic amenities such as Electricity, Water, Sewerage, Gas (if available in locality), etc. will be provided here. These mini townships will be called "BDC TOWN".</p>
+                    <br />
+                    <p>The low-cost "BDC" apartment project has made it possible for people in the middle income group to own aesthetically pleasing, comfortable and functional apartments at a reasonable cost.</p>
+                    <br>
+                    <p>The project includes a group of six storied buildings with plenty of greenery and space for children's play ground. Like all its apartment projects, BDC has given special emphasis to ensure sufficient natural light and ventilation for each apartment. In addition, there is common space for each building to accommodate shops, mosques, stores etc. With a growing middle class that has adopted the modern life style, the need for affordable "BDC" housing cannot be ignored.</p>
+					<br>
+                    <p>Shyamoli Plaza is one of our superb apartment projects at Shyamoli, prime location of Dhaka city. Schools, Colleges, Hospitals, Bazar, Park, and different Govt. Offices even the Shangshad Bhaban are within walking distance from the project.</p>
+                    <br />
+                    <p>The project comprises of a 16 storied building. It has been designed to suit contemporary life styles with particular emphasis on allowing sufficient natural light & ventilation, not only to individual apartment but also to the common spaces.</p>
+                    <br />
+                    <p>Named after a traditional craft of Bangladesh, the Nakshi Kantha (which is a hand-embroidered quilt usually made by rural women)  is located at Kabi Jasimuddin Road next to Motijheel Commercial Area, the business centre of the capital city.</p>
+                    <br />
+                    <p>The project comprises of a twin tower of 12 storied buildings. Special emphasis has been given to allow sufficient natural light and ventilation, not only to individual apartments but also to the common spaces. All apartments have been built with standardized materials and excellent plumbing system with high quality toilet fittings, best quality wooden doors and plastic paint for the walls. Security system has been given special priority and the security measures include: heavily secured gate; security guard, intercom system connecting each apartment with the guard room; stand by generator for uninterrupted power supply; and safety grills for all verandas.</p>
+                    <br />
+                    <p>SHANCHITA is also one of our superb apartment projects, at Hrishikesh Das Road, Laxmibazar.</p>
+                    <br />
+                    <p>The project comprises of a 9 storied building. It has been designed to fulfill the expectations of the traditional populace of Dhaka city. It will have all the facilities simillar to our other apartment projects.</p>
+                </div>
