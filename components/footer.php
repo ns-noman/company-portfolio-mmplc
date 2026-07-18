@@ -19,7 +19,7 @@
       
       <div class="col-12 col-sm-6 col-md-4">
         <a href="https://roc.gov.bd/" target="_blank" class="text-white text-decoration-none">
-          <img src="https://roc.gov.bd/themes/responsive_npf/img/logo/logo.png" alt="Office of the Registrar of Joint Stock Companies and Firms" class="img-fluid" style="max-width: 60px;">
+          <img src="https://roc.gov.bd/site-assets/images/logo.png" alt="Office of the Registrar of Joint Stock Companies and Firms" class="img-fluid" style="max-width: 60px;">
           <h6 class="mt-2">Office of the Registrar of Joint Stock Companies and Firms</h6>
         </a>
       </div>

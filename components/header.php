@@ -3,8 +3,8 @@ $page = isset($_REQUEST['page']) ? $_REQUEST['page'] : 'home';
 
 $menuList = [
     ['url' => 'index.php', 'menu_label' => 'Home', 'page' => 'home', 'child' => []],
-    ['url' => 'index.php?page=about', 'menu_label' => 'About', 'page' => 'about', 'child' => []],
-    ['url' => 'index.php?page=products', 'menu_label' => 'Products', 'page' => 'products', 'child' => []],
+    // ['url' => 'index.php?page=about', 'menu_label' => 'About', 'page' => 'about', 'child' => []],
+    // ['url' => 'index.php?page=products', 'menu_label' => 'Products', 'page' => 'products', 'child' => []],
     ['url' => 'index.php?page=services', 'menu_label' => 'Services', 'page' => 'services', 'child' => []],
     [
         'url' => 'javascript:void(0)', 'menu_label' => 'Meetings', 'page' => '', 'child' => [
