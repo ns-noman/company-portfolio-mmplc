@@ -28,10 +28,10 @@
 
     <hr class="border-light my-4">
 
-    <div class="text-center small">
+    <div class="text-center" style="font-size: 18px;">
       &copy; 2020–<span id="footer-year">2025</span> Magura Multiplex PLC All Rights Reserved.<br>
-      Email: <a href="mailto:info@maguramultiplex.com.bd" class="text-white text-decoration-underline">info@maguramultiplex.com.bd</a> | 
-      Phone: <a href="tel:+8801234567890" class="text-white text-decoration-underline">+88 01847 091040</a><br>
+      Email: <a href="mailto:marketing@maguramultiplex.com.bd" class="text-white text-decoration-underline">marketing@maguramultiplex.com.bd</a> | 
+      Phone: <a href="tel:+8801616499869" class="text-white text-decoration-underline">+88 01616499869</a><br>
       <a href="javascript:void(0)" class="text-white text-decoration-underline">Privacy Policy</a> |
       <a href="javascript:void(0)" class="text-white text-decoration-underline">Terms of Use</a><br>
       Developed By BATL

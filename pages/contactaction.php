@@ -35,7 +35,7 @@ if ($Comment === "") {
 if ($error) {
     include('contact.php');
 } else {
-    $toEmail = "bdc.mkt@bdg.com.bd";
+    $toEmail = "https://maguramultiplex.com.bd";
     $message = nl2br(htmlspecialchars($Comment)); // Escape HTML and keep line breaks
 
     $headers  = "MIME-Version: 1.0\r\n";
@@ -51,5 +51,6 @@ if ($error) {
                 Failed to send email. Please try again later.
               </div>";
     }
+    include('contact.php');
 }
 ?>

@@ -3,9 +3,11 @@ $page = isset($_REQUEST['page']) ? $_REQUEST['page'] : 'home';
 
 $menuList = [
     ['url' => 'index.php', 'menu_label' => 'Home', 'page' => 'home', 'child' => []],
+    ['url' => 'index.php?page=machineries', 'menu_label' => 'Machineries', 'page' => 'machineries', 'child' => []],
+    ['url' => 'index.php?page=clients', 'menu_label' => 'Our Valued Clients', 'page' => 'clients', 'child' => []],
     // ['url' => 'index.php?page=about', 'menu_label' => 'About', 'page' => 'about', 'child' => []],
     // ['url' => 'index.php?page=products', 'menu_label' => 'Products', 'page' => 'products', 'child' => []],
-    ['url' => 'index.php?page=services', 'menu_label' => 'Services', 'page' => 'services', 'child' => []],
+    // ['url' => 'index.php?page=services', 'menu_label' => 'Services', 'page' => 'services', 'child' => []],
     [
         'url' => 'javascript:void(0)', 'menu_label' => 'Meetings', 'page' => '', 'child' => [
             [
@@ -44,17 +46,17 @@ $menuList = [
     ],
     ['url' => 'index.php?page=InvestorRelations', 'menu_label' => 'Investor Relations', 'page' => 'InvestorRelations', 'child' => []],
     ['url' => 'index.php?page=directorlist', 'menu_label' => 'Directors', 'page' => 'directorlist', 'child' => []],
-    ['url' => 'javascript:void(0)', 'menu_label' => 'News', 'page' => '', 'child' => [
-        [
-            'url' => 'https://www.bangladesherkhabor.net', 'menu_label' => 'Bangladesher Khabor', 'page' => '', 'target' => '_blank', 'child' => [],
-        ],
-        [
-            'url' => 'https://bangladeshnews.live', 'menu_label' => 'Bangladesh News', 'page' => '', 'target' => '_blank', 'child' => [],
-        ],
-        [
-            'url' => 'https://dinparibarton.com', 'menu_label' => 'Dinparibarton', 'page' => '', 'target' => '_blank', 'child' => [],
-        ],
-    ]],
+    // ['url' => 'javascript:void(0)', 'menu_label' => 'News', 'page' => '', 'child' => [
+    //     [
+    //         'url' => 'https://www.bangladesherkhabor.net', 'menu_label' => 'Bangladesher Khabor', 'page' => '', 'target' => '_blank', 'child' => [],
+    //     ],
+    //     [
+    //         'url' => 'https://bangladeshnews.live', 'menu_label' => 'Bangladesh News', 'page' => '', 'target' => '_blank', 'child' => [],
+    //     ],
+    //     [
+    //         'url' => 'https://dinparibarton.com', 'menu_label' => 'Dinparibarton', 'page' => '', 'target' => '_blank', 'child' => [],
+    //     ],
+    // ]],
     ['url' => 'index.php?page=contact', 'menu_label' => 'Contact', 'page' => 'contact', 'child' => []],
 ];
 
@@ -95,14 +97,13 @@ function renderMenu($menus, $page, $level = 0) {
 }
 ?>
 
-
 <header>
   <!-- Professional Top Bar -->
-  <div class="container-fluid bg-white py-2 shadow-sm border-bottom">
+  <!-- <div class="container-fluid bg-white py-2 shadow-sm border-bottom">
     <div class="container">
       <div class="d-flex flex-column flex-md-row justify-content-between align-items-center">
 
-        <!-- Left: Contact Info -->
+
         <div class="d-flex flex-column flex-sm-row align-items-center text-secondary gap-3 small">
           <div class="d-flex align-items-center">
             <i class="bi bi-envelope-fill me-2 text-primary"></i>
@@ -117,24 +118,19 @@ function renderMenu($menus, $page, $level = 0) {
           </div>
         </div>
 
-        <!-- Social Icons with Font Awesome -->
         <div class="d-flex align-items-center gap-2 mt-3 mt-md-0">
-          <!-- Facebook -->
           <a href="#" class="text-white bg-primary rounded-circle d-flex justify-content-center align-items-center" style="width: 32px; height: 32px;" aria-label="Facebook">
             <i class="fab fa-facebook-f"></i>
           </a>
 
-          <!-- X (Twitter) -->
           <a href="#" class="text-white bg-dark rounded-circle d-flex justify-content-center align-items-center" style="width: 32px; height: 32px;" aria-label="X Twitter">
             <i class="fab fa-x-twitter"></i>
           </a>
 
-          <!-- LinkedIn -->
           <a href="#" class="text-white bg-primary rounded-circle d-flex justify-content-center align-items-center" style="width: 32px; height: 32px;" aria-label="LinkedIn">
             <i class="fab fa-linkedin-in"></i>
           </a>
 
-          <!-- Instagram -->
           <a href="#" class="text-white bg-danger rounded-circle d-flex justify-content-center align-items-center" style="width: 32px; height: 32px;" aria-label="Instagram">
             <i class="fab fa-instagram"></i>
           </a>
@@ -142,10 +138,10 @@ function renderMenu($menus, $page, $level = 0) {
 
       </div>
     </div>
-  </div>
+  </div> -->
 
   <!-- Navbar Start -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-white py-3 position-relative">
+  <nav class="navbar navbar-expand-lg navbar-light bg-white py-3 sticky-top">
     <div class="container-fluid px-4">
       <!-- Logo -->
       <a class="navbar-brand" href="index.php">

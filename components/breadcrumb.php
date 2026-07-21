@@ -4,11 +4,14 @@
 
     $breadcrumbTitles = [
         'about'             => 'About Us',
+        'clients'             => 'Our Valued Clients',
         'products'          => 'Our Products',
         'services'          => 'Our Services',
         'InvestorRelations' => 'Investor Relations',
         'directorlist'      => 'Director List',
         'contact'           => 'Contact Us',
+        'contactaction'           => 'Contact Us',
+        'machineries'       => 'Machineries',
     ];
     
     if ($page):
@@ -18,7 +21,7 @@
             <div class="row">
                 <!-- Left Side: Page Title -->
                 <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                    <h1 class="text-color-dark font-weight-bold m-0">
+                    <h1 class="text-color-dark font-weight-bold m-0" style="text-transform: uppercase;">
                         <?= $breadcrumbTitles[$page]; ?>
                     </h1>
                 </div>
